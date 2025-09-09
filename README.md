@@ -1,16 +1,20 @@
-# api_course
+# API Book 📚
 
-A new Flutter project.
+A Flutter project to learn and demonstrate different types of API calling and handling methods in Flutter. This app is designed as a hands-on reference for developers aiming to master networking in Flutter using real-world API scenarios.
 
-## Getting Started
+## Features 🌐
 
-This project is a starting point for a Flutter application.
+- Examples of various API request types (GET, POST, PUT, DELETE)
+- Parsing and displaying API data in a user-friendly UI
+- Error handling and loading states for robust networking
+- Modular code structure for easy understanding and scalability
+- Clean Flutter UI to visualize API responses
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots & Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+All screenshots and demo videos are shared in the Google Drive link below:  
+[Demo Link](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+<p align="left" style="font-size:small"><i>[Public version of <code>kishan5459/API-Book</code>]</i></p>
