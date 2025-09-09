@@ -1,0 +1,75 @@
+{
+  "statusCode": 200,
+  "data": {
+    "page": 1,
+    "limit": 10,
+    "totalPages": 1,
+    "previousPage": false,
+    "nextPage": false,
+    "totalItems": 5,
+    "currentPageItems": 5,
+    "data": [
+      {
+        "author": "Charles Dickens",
+        "content": "Subdue your appetites, my dears, and you've conquered human nature.",
+        "tags": [],
+        "authorSlug": "charles-dickens",
+        "length": 67,
+        "dateAdded": "2023-04-14",
+        "dateModified": "2023-04-14",
+        "id": 1
+      },
+      {
+        "author": "Thomas Edison",
+        "content": "The doctor of the future will give no medicine, but will interest her or his patients in the care of the human frame, in a proper diet, and in the cause and prevention of disease.",
+        "tags": [
+          "Health",
+          "Wellness"
+        ],
+        "authorSlug": "thomas-edison",
+        "length": 179,
+        "dateAdded": "2023-04-14",
+        "dateModified": "2023-04-14",
+        "id": 14
+      },
+      {
+        "author": "Albert Einstein",
+        "content": "Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.",
+        "tags": [
+          "Stupidity"
+        ],
+        "authorSlug": "albert-einstein",
+        "length": 98,
+        "dateAdded": "2023-04-06",
+        "dateModified": "2023-04-14",
+        "id": 26
+      },
+      {
+        "author": "Albert Einstein",
+        "content": "The ideals which have lighted my way, and time after time have given me new courage to face life cheerfully, have been Kindness, Beauty, and Truth. The trite subjects of human efforts, possessions, outward success, luxury have always seemed to me contemptible.",
+        "tags": [
+          "Success"
+        ],
+        "authorSlug": "albert-einstein",
+        "length": 260,
+        "dateAdded": "2023-04-06",
+        "dateModified": "2023-04-14",
+        "id": 40
+      },
+      {
+        "author": "Winston Churchill",
+        "content": "Courage is rightly esteemed the first of human qualities... because it is the quality which guarantees all others.",
+        "tags": [
+          "Courage"
+        ],
+        "authorSlug": "winston-churchill",
+        "length": 114,
+        "dateAdded": "2022-03-12",
+        "dateModified": "2023-04-14",
+        "id": 255
+      }
+    ]
+  },
+  "message": "Quotes fetched successfully",
+  "success": true
+}
