@@ -17,4 +17,4 @@ All screenshots and demo videos are shared in the Google Drive link below:
 
 ---
 
-<p align="left" style="font-size:small"><i>[Public version of <code>kishan5459/API-Book</code>]</i></p>
+<p align="left" style="font-size:small"><i>[Public version of <code>kishan5459/api_course</code>]</i></p>
